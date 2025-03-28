@@ -13,5 +13,5 @@ must be python3 ok
 ```baah
 pkg install python3
 ```
-### Example Display of cpu.py
+### Example Display of cpu-test.py
 Downloading: 50%|███████████         | 10MB/20MB
